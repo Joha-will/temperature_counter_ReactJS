@@ -64,7 +64,7 @@ button:focus {
 }
 
 .neutral {
-  background: rgb(184, 184, 184);
+  background: orange
 }
 
 .cold {
@@ -72,5 +72,9 @@ button:focus {
 }
 
 .hot {
-  background: #ff5200;
+  background: red;
+}
+
+.icon-size {
+  font-size: 4rem;
 }
